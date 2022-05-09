@@ -1,0 +1,130 @@
+.conteudo-cabecalho {
+    background-color: #048853;
+}
+
+.cabecalho {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #048853;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu li {
+    padding-left: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.menu a.link-ativo {
+    color: white;
+    font-weight: bold;
+}
+
+.menu a.botao {
+    background-color: white;
+    color: green;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.botao01 {
+    color: green;
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.logo-site {
+    color: white;
+    align-items: flex-start;
+}
+
+.titulo-paragrafo {
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.paragrafo {
+    color: white;
+}
+
+.banner01-conteudo {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url(imagens/Layer_x0020_1.png);
+    background-repeat: no-repeat;
+}
+
+.conteudo01 p.titulo-progamas {
+    color: white;
+    font-size: 30px;
+}
+
+.conteudo02 p.titulo-progamas {
+    color: #00985B;
+    font-size: 30px;
+}
+
+.conteudo01 p.conteudo-progamas {
+    color: white;
+}
+
+.conteudo01 {
+    background-color: #00985B;
+    width: 350px;
+    box-shadow: 2px 6px 11px 0px #000;
+    padding: 30px;
+    height: 300px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+.conteudo02 {
+    width: 350px;
+    background-color: white;
+    box-shadow: 2px 6px 11px 0px #000;
+    padding: 30px;
+    height: 300px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.nossa-solucao {
+    font-size: 25px;
+    color: #00985B;
+    align-items: center;
+}
+
+.nossa-solucao p.nossa-subtitulo {
+    color: #000;
+}
+
+.conteudo-nossa-solucao {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.titulo-inicial{
+    width: 600px;
+    align-self: center;
+    align-items: center;
+    margin: 0 auto;
+}
